@@ -1,4 +1,8 @@
-*.class
+# Ignore a specific file
+.vscode/settings.json
+# Ignore a folder
 bin/
-.vscode/
 lib/
+
+# Ignore all .compiled files
+*.class
