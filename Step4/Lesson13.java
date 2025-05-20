@@ -10,8 +10,6 @@ public class Lesson13 {
         int guess;
         int attempts = 0;
 
-        System.out.println("0～100の間の整数を当ててください！");
-
         while (true) {
             System.out.print("0～100の間の整数を入力してください: ");
             guess = scanner.nextInt();
