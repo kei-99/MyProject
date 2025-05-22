@@ -5,7 +5,7 @@ public class Main {
         Circle circle = new Circle();
 
         // 半径を設定
-        circle.setRadius(-10);
+        circle.setRadius(5);
 
         // 半径を取得して表示
         System.out.println("半径: " + circle.getRadius());
